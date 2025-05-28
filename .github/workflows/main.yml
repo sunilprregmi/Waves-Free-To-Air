@@ -1,0 +1,36 @@
+name: Daily Waves JSON and Playlist Update
+
+on:
+  schedule:
+    - cron: '15 4 * * *' # 10:00 AM Kathmandu is 4:15 UTC (Kathmandu is UTC+5:45)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kathmandu
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run script
+        run: python waves-fta.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m "Updated JSON and M3U8 $(date '+%Y-%m-%d')" || echo "No changes to commit"
+          git push
