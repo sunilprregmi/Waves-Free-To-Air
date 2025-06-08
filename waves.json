@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-07 10:19:38",
+  "date": "2025-06-08 10:26:13",
   "feeds": [
     {
       "category_id": 1,
@@ -19,8 +19,18 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1323303185Frame_207.webp"
         },
         {
-          "channel_id": 14854,
+          "channel_id": 15306,
           "channel_number": "002",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Bharat 24",
+          "channel_slug": "bharat-24",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/557200387Thumbnail_for_Web.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/557200387Thumbnail_for_Web.webp"
+        },
+        {
+          "channel_id": 14854,
+          "channel_number": "003",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "India TV News",
@@ -30,7 +40,7 @@
         },
         {
           "channel_id": 14582,
-          "channel_number": "003",
+          "channel_number": "004",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "Zee News",
@@ -40,7 +50,7 @@
         },
         {
           "channel_id": 11022,
-          "channel_number": "004",
+          "channel_number": "005",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "SANSAD TV 1",
@@ -50,7 +60,7 @@
         },
         {
           "channel_id": 10539,
-          "channel_number": "005",
+          "channel_number": "006",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "DD INDIA",
@@ -60,7 +70,7 @@
         },
         {
           "channel_id": 11021,
-          "channel_number": "006",
+          "channel_number": "007",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "SANSAD TV 2",
@@ -70,7 +80,7 @@
         },
         {
           "channel_id": 10608,
-          "channel_number": "007",
+          "channel_number": "008",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "AAJ TAK",
@@ -80,7 +90,7 @@
         },
         {
           "channel_id": 10549,
-          "channel_number": "008",
+          "channel_number": "009",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "ABP NEWS",
@@ -90,7 +100,7 @@
         },
         {
           "channel_id": 10546,
-          "channel_number": "009",
+          "channel_number": "010",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "GOOD NEWS TODAY",
@@ -100,7 +110,7 @@
         },
         {
           "channel_id": 10547,
-          "channel_number": "010",
+          "channel_number": "011",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "INDIA TODAY",
@@ -110,7 +120,7 @@
         },
         {
           "channel_id": 10594,
-          "channel_number": "011",
+          "channel_number": "012",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "IBC24",
@@ -120,7 +130,7 @@
         },
         {
           "channel_id": 10585,
-          "channel_number": "012",
+          "channel_number": "013",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NAVBHARAT",
@@ -130,7 +140,7 @@
         },
         {
           "channel_id": 10593,
-          "channel_number": "013",
+          "channel_number": "014",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NDTV INDIA",
@@ -140,7 +150,7 @@
         },
         {
           "channel_id": 10554,
-          "channel_number": "014",
+          "channel_number": "015",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NEWS 24 THINK FIRST",
@@ -150,7 +160,7 @@
         },
         {
           "channel_id": 10552,
-          "channel_number": "015",
+          "channel_number": "016",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NEWS NATION",
@@ -160,7 +170,7 @@
         },
         {
           "channel_id": 10590,
-          "channel_number": "016",
+          "channel_number": "017",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NEWS 18 INDIA",
@@ -170,7 +180,7 @@
         },
         {
           "channel_id": 10645,
-          "channel_number": "017",
+          "channel_number": "018",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "RAJ TV",
@@ -180,7 +190,7 @@
         },
         {
           "channel_id": 10827,
-          "channel_number": "018",
+          "channel_number": "019",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "Republic TV Bharat",
@@ -190,7 +200,7 @@
         },
         {
           "channel_id": 10551,
-          "channel_number": "019",
+          "channel_number": "020",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "R Republic",
@@ -200,7 +210,7 @@
         },
         {
           "channel_id": 10595,
-          "channel_number": "020",
+          "channel_number": "021",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "TV9 BHARATVARSH",
@@ -219,7 +229,7 @@
       "channels": [
         {
           "channel_id": 10648,
-          "channel_number": "021",
+          "channel_number": "022",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "ABZY DHAKAD",
@@ -229,7 +239,7 @@
         },
         {
           "channel_id": 10647,
-          "channel_number": "022",
+          "channel_number": "023",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "ABZY Movies",
@@ -239,7 +249,7 @@
         },
         {
           "channel_id": 10543,
-          "channel_number": "023",
+          "channel_number": "024",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "B4U Bhojpuri",
@@ -249,7 +259,7 @@
         },
         {
           "channel_id": 10544,
-          "channel_number": "024",
+          "channel_number": "025",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "B4U KADAK",
@@ -259,7 +269,7 @@
         },
         {
           "channel_id": 10548,
-          "channel_number": "025",
+          "channel_number": "026",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "B4U Movies",
@@ -269,7 +279,7 @@
         },
         {
           "channel_id": 10598,
-          "channel_number": "026",
+          "channel_number": "027",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "DABANNG",
@@ -279,7 +289,7 @@
         },
         {
           "channel_id": 10542,
-          "channel_number": "027",
+          "channel_number": "028",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "DD Bharati",
@@ -289,7 +299,7 @@
         },
         {
           "channel_id": 10574,
-          "channel_number": "028",
+          "channel_number": "029",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "DD National HD",
@@ -299,7 +309,7 @@
         },
         {
           "channel_id": 10596,
-          "channel_number": "029",
+          "channel_number": "030",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "E24",
@@ -309,7 +319,7 @@
         },
         {
           "channel_id": 10932,
-          "channel_number": "030",
+          "channel_number": "031",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Gangaur",
@@ -319,7 +329,7 @@
         },
         {
           "channel_id": 10649,
-          "channel_number": "031",
+          "channel_number": "032",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "MAIBOLI",
@@ -329,7 +339,7 @@
         },
         {
           "channel_id": 10553,
-          "channel_number": "032",
+          "channel_number": "033",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "PITAARA MOVIES",
@@ -339,7 +349,7 @@
         },
         {
           "channel_id": 10556,
-          "channel_number": "033",
+          "channel_number": "034",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "PTC PUNJABI",
@@ -349,7 +359,7 @@
         },
         {
           "channel_id": 10555,
-          "channel_number": "034",
+          "channel_number": "035",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "PTC PUNJABI GOLD",
@@ -368,7 +378,7 @@
       "channels": [
         {
           "channel_id": 10550,
-          "channel_number": "035",
+          "channel_number": "036",
           "channel_country": "IN",
           "channel_category": "Devotional",
           "channel_name": "DIVYA",
@@ -378,7 +388,7 @@
         },
         {
           "channel_id": 10610,
-          "channel_number": "036",
+          "channel_number": "037",
           "channel_country": "IN",
           "channel_category": "Devotional",
           "channel_name": "Sanskar",
@@ -388,7 +398,7 @@
         },
         {
           "channel_id": 10611,
-          "channel_number": "037",
+          "channel_number": "038",
           "channel_country": "IN",
           "channel_category": "Devotional",
           "channel_name": "SATSANG",
@@ -407,7 +417,7 @@
       "channels": [
         {
           "channel_id": 10605,
-          "channel_number": "038",
+          "channel_number": "039",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "9X JALWA",
@@ -417,7 +427,7 @@
         },
         {
           "channel_id": 15037,
-          "channel_number": "039",
+          "channel_number": "040",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "PTC MUSIC",
@@ -427,7 +437,7 @@
         },
         {
           "channel_id": 10606,
-          "channel_number": "040",
+          "channel_number": "041",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "9X JHAKAS",
@@ -437,7 +447,7 @@
         },
         {
           "channel_id": 10591,
-          "channel_number": "041",
+          "channel_number": "042",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "9XM",
@@ -447,7 +457,7 @@
         },
         {
           "channel_id": 10607,
-          "channel_number": "042",
+          "channel_number": "043",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "9X TASHAN",
@@ -457,7 +467,7 @@
         },
         {
           "channel_id": 10545,
-          "channel_number": "043",
+          "channel_number": "044",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "B4U Music",
@@ -467,7 +477,7 @@
         },
         {
           "channel_id": 10651,
-          "channel_number": "044",
+          "channel_number": "045",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "MASTI",
@@ -486,7 +496,7 @@
       "channels": [
         {
           "channel_id": 10574,
-          "channel_number": "045",
+          "channel_number": "046",
           "channel_country": "IN",
           "channel_category": "DD National Channels",
           "channel_name": "DD National HD",
@@ -496,7 +506,7 @@
         },
         {
           "channel_id": 10541,
-          "channel_number": "046",
+          "channel_number": "047",
           "channel_country": "IN",
           "channel_category": "DD National Channels",
           "channel_name": "DD News",
@@ -506,7 +516,7 @@
         },
         {
           "channel_id": 10539,
-          "channel_number": "047",
+          "channel_number": "048",
           "channel_country": "IN",
           "channel_category": "DD National Channels",
           "channel_name": "DD INDIA",
@@ -516,7 +526,7 @@
         },
         {
           "channel_id": 10542,
-          "channel_number": "048",
+          "channel_number": "049",
           "channel_country": "IN",
           "channel_category": "DD National Channels",
           "channel_name": "DD Bharati",
@@ -526,7 +536,7 @@
         },
         {
           "channel_id": 10569,
-          "channel_number": "049",
+          "channel_number": "050",
           "channel_country": "IN",
           "channel_category": "DD National Channels",
           "channel_name": "DD SPORTS",
@@ -536,7 +546,7 @@
         },
         {
           "channel_id": 10540,
-          "channel_number": "050",
+          "channel_number": "051",
           "channel_country": "IN",
           "channel_category": "DD National Channels",
           "channel_name": "DD KISAN",
@@ -546,7 +556,7 @@
         },
         {
           "channel_id": 10570,
-          "channel_number": "051",
+          "channel_number": "052",
           "channel_country": "IN",
           "channel_category": "DD National Channels",
           "channel_name": "DD URDU",
@@ -565,7 +575,7 @@
       "channels": [
         {
           "channel_id": 10583,
-          "channel_number": "052",
+          "channel_number": "053",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD MADHYAPRADESH",
@@ -575,7 +585,7 @@
         },
         {
           "channel_id": 10557,
-          "channel_number": "053",
+          "channel_number": "054",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD Arunprabha",
@@ -585,7 +595,7 @@
         },
         {
           "channel_id": 10579,
-          "channel_number": "054",
+          "channel_number": "055",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD YADGIRI",
@@ -595,7 +605,7 @@
         },
         {
           "channel_id": 10592,
-          "channel_number": "055",
+          "channel_number": "056",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD GOA",
@@ -605,7 +615,7 @@
         },
         {
           "channel_id": 10580,
-          "channel_number": "056",
+          "channel_number": "057",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD HARYANA",
@@ -615,7 +625,7 @@
         },
         {
           "channel_id": 10835,
-          "channel_number": "057",
+          "channel_number": "058",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD Rajasthan",
@@ -625,7 +635,7 @@
         },
         {
           "channel_id": 10604,
-          "channel_number": "058",
+          "channel_number": "059",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD ASSAM",
@@ -635,7 +645,7 @@
         },
         {
           "channel_id": 10603,
-          "channel_number": "059",
+          "channel_number": "060",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD NAGALAND",
@@ -645,7 +655,7 @@
         },
         {
           "channel_id": 10600,
-          "channel_number": "060",
+          "channel_number": "061",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD SAPTAGIRI",
@@ -655,7 +665,7 @@
         },
         {
           "channel_id": 10599,
-          "channel_number": "061",
+          "channel_number": "062",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD MEGHALAYA",
@@ -665,7 +675,7 @@
         },
         {
           "channel_id": 10589,
-          "channel_number": "062",
+          "channel_number": "063",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD Jharkhand",
@@ -675,7 +685,7 @@
         },
         {
           "channel_id": 10588,
-          "channel_number": "063",
+          "channel_number": "064",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD BIHAR",
@@ -685,7 +695,7 @@
         },
         {
           "channel_id": 10587,
-          "channel_number": "064",
+          "channel_number": "065",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD UP",
@@ -695,7 +705,7 @@
         },
         {
           "channel_id": 10586,
-          "channel_number": "065",
+          "channel_number": "066",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD HIMANCHAL",
@@ -705,7 +715,7 @@
         },
         {
           "channel_id": 10558,
-          "channel_number": "066",
+          "channel_number": "067",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD BANGLA",
@@ -715,7 +725,7 @@
         },
         {
           "channel_id": 10581,
-          "channel_number": "067",
+          "channel_number": "068",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD UTTRAKHAND",
@@ -725,7 +735,7 @@
         },
         {
           "channel_id": 10578,
-          "channel_number": "068",
+          "channel_number": "069",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD Tripura",
@@ -735,7 +745,7 @@
         },
         {
           "channel_id": 10582,
-          "channel_number": "069",
+          "channel_number": "070",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD MALAYALAM",
@@ -745,7 +755,7 @@
         },
         {
           "channel_id": 10576,
-          "channel_number": "070",
+          "channel_number": "071",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD SHAYADRI",
@@ -755,7 +765,7 @@
         },
         {
           "channel_id": 10575,
-          "channel_number": "071",
+          "channel_number": "072",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD PUNJABI",
@@ -765,7 +775,7 @@
         },
         {
           "channel_id": 10573,
-          "channel_number": "072",
+          "channel_number": "073",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD GIRNAR",
@@ -775,7 +785,7 @@
         },
         {
           "channel_id": 10571,
-          "channel_number": "073",
+          "channel_number": "074",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD CHHATISGARH",
@@ -785,7 +795,7 @@
         },
         {
           "channel_id": 10601,
-          "channel_number": "074",
+          "channel_number": "075",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD CHANDANA",
@@ -795,7 +805,7 @@
         },
         {
           "channel_id": 10577,
-          "channel_number": "075",
+          "channel_number": "076",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD TAMIL",
@@ -805,7 +815,7 @@
         },
         {
           "channel_id": 10562,
-          "channel_number": "076",
+          "channel_number": "077",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD ODIA",
@@ -815,7 +825,7 @@
         },
         {
           "channel_id": 10561,
-          "channel_number": "077",
+          "channel_number": "078",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD MIZORAM",
@@ -825,7 +835,7 @@
         },
         {
           "channel_id": 10559,
-          "channel_number": "078",
+          "channel_number": "079",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD KASHIR",
