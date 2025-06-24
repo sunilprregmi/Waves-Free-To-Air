@@ -1,7 +1,7 @@
 #EXTM3U
 # Only Free-To-Air Streams
 # Scrapped by @sunilprregmi
-# Scrapped on 2025-06-23 10:30:39
+# Scrapped on 2025-06-24 10:25:41
 # Relay server is for playback
 
 #EXTINF:-1 tvg-id="10541" tvg-chno="001" tvg-name="dd-news" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1323303185Frame_207.webp" group-title="News", DD News
@@ -472,7 +472,13 @@ https://in1.sunilprasad.com.np/wavespb/10562/master.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10561/master.m3u8
 
-#EXTINF:-1 tvg-id="10559" tvg-chno="079" tvg-name="dd-kashir" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1113622373DD_KASHIR.webp" group-title="DD Regional Channels", DD KASHIR
+#EXTINF:-1 tvg-id="10560" tvg-chno="079" tvg-name="dd-manipur" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2042630736manipur_720x405.webp" group-title="DD Regional Channels", DD MANIPUR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/10560/master.m3u8
+
+#EXTINF:-1 tvg-id="10559" tvg-chno="080" tvg-name="dd-kashir" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1113622373DD_KASHIR.webp" group-title="DD Regional Channels", DD KASHIR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)

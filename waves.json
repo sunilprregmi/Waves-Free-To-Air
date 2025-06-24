@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-23 10:30:40",
+  "date": "2025-06-24 10:25:43",
   "feeds": [
     {
       "category_id": 1,
@@ -834,8 +834,18 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1657530361mizoram.webp"
         },
         {
-          "channel_id": 10559,
+          "channel_id": 10560,
           "channel_number": "079",
+          "channel_country": "IN",
+          "channel_category": "DD Regional Channels",
+          "channel_name": "DD MANIPUR",
+          "channel_slug": "dd-manipur",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2042630736manipur_720x405.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2042630736manipur_720x405.webp"
+        },
+        {
+          "channel_id": 10559,
+          "channel_number": "080",
           "channel_country": "IN",
           "channel_category": "DD Regional Channels",
           "channel_name": "DD KASHIR",
